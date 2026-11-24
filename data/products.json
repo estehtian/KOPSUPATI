@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee Salted Caramel",
+    "category": "coffee",
+    "description": "Kopi, susu, buttercream, salted caramel",
+    "price": 10000,
+    "emoji": "☕"
+  },
+  {
+    "id": 2,
+    "name": "Coffee Banana",
+    "category": "coffee",
+    "description": "Kopi, susu, buttercream, banana",
+    "price": 10000,
+    "emoji": "🍌"
+  },
+  {
+    "id": 3,
+    "name": "Coffee Butterscotch",
+    "category": "coffee",
+    "description": "Kopi, susu, buttercream, butterscotch",
+    "price": 10000,
+    "emoji": "🥤"
+  },
+  {
+    "id": 4,
+    "name": "Americano",
+    "category": "coffee",
+    "description": "Kopi, air, es",
+    "price": 6000,
+    "emoji": "🧊"
+  },
+  {
+    "id": 5,
+    "name": "Choco Boom",
+    "category": "noncoffee",
+    "description": "Coklat, susu, evaporasi",
+    "price": 10000,
+    "emoji": "🍫"
+  },
+  {
+    "id": 6,
+    "name": "Matcha Glitch",
+    "category": "noncoffee",
+    "description": "Matcha, susu, evaporasi, slay blueberry",
+    "price": 10000,
+    "emoji": "🍵"
+  },
+  {
+    "id": 7,
+    "name": "Berry Kiss",
+    "category": "noncoffee",
+    "description": "Strawberry, SKM, susu, slay strawberry",
+    "price": 8000,
+    "emoji": "🍓"
+  },
+  {
+    "id": 8,
+    "name": "Black Tea",
+    "category": "tea",
+    "description": "Gula, teh, air",
+    "price": 3000,
+    "emoji": "🫖"
+  },
+  {
+    "id": 9,
+    "name": "Berry Tea",
+    "category": "tea",
+    "description": "Strawberry, gula, teh, air",
+    "price": 5000,
+    "emoji": "🍹"
+  }
+]
